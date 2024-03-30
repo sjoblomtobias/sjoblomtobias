@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobbe</h1>
-<h3 align="center">A computer science student from Sweden</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **tobiassjoblom@icloud.com**
 
